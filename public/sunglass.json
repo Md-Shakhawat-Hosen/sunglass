@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/xLtfkCy/photo-1.jpg",
+    "title": "Classic Aviator Shades",
+    "rating": 4.5,
+    "price": 59.99,
+    "description": "Achieve timeless style with these classic aviator sunglasses. The sleek metal frame and UV-protective lenses not only provide excellent eye protection but also make a bold fashion statement. Elevate your look with these iconic shades.",
+    "bg_color": "#F0F8FF",
+    "text_color": "#333333"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/F7HMByR/p-2.jpg",
+    "title": "Polarized Sport Sunglasses",
+    "rating": 4.2,
+    "price": 69.99,
+    "description": "Enhance your outdoor activities with these polarized sport sunglasses. Designed for maximum sun protection and reduced glare, they are perfect for cycling, running, and other sports. Stay focused and stylish with these high-performance shades.",
+    "bg_color": "#FFE4E1",
+    "text_color": "#006400"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/vPGZ9Dd/p-3.jpg",
+    "title": "Cat-Eye Fashion Glasses",
+    "rating": 4.7,
+    "price": 49.99,
+    "description": "Make a bold fashion statement with these cat-eye sunglasses. The unique shape and gradient lenses add a touch of glamour to any outfit. Embrace your inner fashionista and turn heads with these stylish shades.",
+    "bg_color": "#D3D3D3",
+    "text_color": "#800000"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/wYHBhBy/p-4.jpg",
+    "title": "Retro Round Sunglasses",
+    "rating": 4.0,
+    "price": 39.99,
+    "description": "Go retro with these round sunglasses inspired by vintage fashion. The timeless design and UV-protected lenses make them a must-have accessory for any season. Stay cool and trendy with these throwback shades.",
+    "bg_color": "#FFFACD",
+    "text_color": "#4B0082"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/YBBtsDc/p-5.jpg",
+    "title": "Oversized Square Shades",
+    "rating": 4.6,
+    "price": 79.99,
+    "description": "Make a bold statement with these oversized square sunglasses. The large frames and gradient lenses exude confidence and style. Elevate your fashion game with these chic and trendy shades.",
+    "bg_color": "#87CEFA",
+    "text_color": "#2F4F4F"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/c2fLbbB/p-6.jpg",
+    "title": "Mirrored Aviator Glasses",
+    "rating": 4.8,
+    "price": 89.99,
+    "description": "Stand out from the crowd with these mirrored aviator sunglasses. The reflective lenses not only add a modern twist to the classic aviator style but also provide extra protection against bright sunlight. Shine bright with these statement shades.",
+    "bg_color": "#FFE4B5",
+    "text_color": "#8B4513"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/288LTCg/p-7.jpg",
+    "title": "Wooden Frame Sunglasses",
+    "rating": 4.4,
+    "price": 99.99,
+    "description": "Embrace nature-inspired style with these wooden frame sunglasses. The unique combination of wood and high-quality lenses creates a distinctive look. Make a sustainable fashion choice with these eco-friendly and trendy shades.",
+    "bg_color": "#FFD700",
+    "text_color": "#000080"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/zbQyBg7/p-8.jpg",
+    "title": "Gradient Butterfly Sunglasses",
+    "rating": 4.3,
+    "price": 59.99,
+    "description": "Channel elegance with these gradient butterfly sunglasses. The graceful shape and gradient lenses add a touch of sophistication to your ensemble. Step out in style and shield your eyes with these chic and glamorous shades.",
+    "bg_color": "#98FB98",
+    "text_color": "#8B4513"
+  }
+]
